@@ -5,8 +5,6 @@ class HelloGit{
 
 public static void main(String str[])
 {
-system.out.println("Hello git..");
+system.out.println("Hello git.$$$$$$$$$....");
 }
-
-
 }
