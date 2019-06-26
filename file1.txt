@@ -1,1 +1,12 @@
 this is my first file welcome to git!!!!!!!!!!!!!!!
+
+class HelloGit{
+
+
+main()
+{
+system.out.println("Hello git..");
+}
+
+
+}
