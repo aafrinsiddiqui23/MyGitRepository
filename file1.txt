@@ -1,17 +1,15 @@
-<<<<<<< HEAD
-this is my first file welcome to git!!!!!!!!!!!!!!!
 
 class HelloGit{
 
- showdate()
+ void helloGit
 {
-
+system.out.printlin("welcome to git");
 }
 public static void main(String str[])
 {
-system.out.println("Hello git.$$$$$$$$$....");
+HelloGit obj=new helloGit();
+obj.helloGit();
 }
+
+
 }
-=======
-this is my first file welcome to git!!!!!!!!!!!!!!!
->>>>>>> parent of 3b19851... class to display hello git
