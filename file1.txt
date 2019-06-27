@@ -16,7 +16,7 @@ helloGit("Hello");
 
 }
 
-myBigMethod()
+public static void myBigMethod()
 {
 sysout("has a method implementation");
 }
