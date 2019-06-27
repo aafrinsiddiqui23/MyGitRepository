@@ -1,13 +1,19 @@
 
 class HelloGit{
 
- static void helloGit()
+
+
+public static final void helloGit(String str)
+
 {
-system.out.printlin("welcome to git");
+system.out.printlin("welcome to git..welcome");
 }
 public static void main(String str[])
 {
-helloGit();
+
+helloGit("Hello");
+
+
 }
 
 myBigMethod()
